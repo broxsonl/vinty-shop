@@ -12,6 +12,7 @@ const UserSchema = new mongoose.Schema({
     type: String,
     default: '',
   },
+  // User object unique identifier
   email: {
     type: String,
     default: '',
