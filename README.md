@@ -1,1 +1,0 @@
-# vinty-shop
