@@ -1,3 +1,6 @@
 {
-  "extends": "airbnb"
+  "extends": "airbnb",
+  // "rules": {
+  //   "import/extensions": "never" // for now, since our node app requires .js right now
+  // }
 }
